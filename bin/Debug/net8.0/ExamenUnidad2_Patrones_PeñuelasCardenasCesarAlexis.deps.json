@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExamenUnidad2_Patrones_PeñuelasCardenasCesarAlexis/1.0.0": {
+        "runtime": {
+          "ExamenUnidad2_Patrones_PeñuelasCardenasCesarAlexis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamenUnidad2_Patrones_PeñuelasCardenasCesarAlexis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
